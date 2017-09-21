@@ -6,11 +6,17 @@ Today we will look on the concept of a node.js module, and especially the expres
 ## Express.js documentation
 * [Express.js](https://expressjs.com/)
   * [Getting Started](https://expressjs.com/en/starter/installing.html)
+  * [Hello World](https://expressjs.com/en/starter/hello-world.html)
+  * [Basic routing](https://expressjs.com/en/starter/basic-routing.html)
 
 ## Globals
 * [__dirname](https://nodejs.org/dist/latest-v6.x/docs/api/globals.html#globals_dirname)
 * [process](https://nodejs.org/dist/latest-v6.x/docs/api/process.html#process_process_env)
 * [require()](https://nodejs.org/dist/latest-v6.x/docs/api/globals.html#globals_require)ectoru
+
+## Tools
+* [Postman for Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 
 
 
