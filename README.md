@@ -11,6 +11,7 @@ Today we will look on the concept of a node.js module, and especially the expres
   * [Routing](https://expressjs.com/en/guide/routing.html)
   * **Middleware**
     * [Body-parser](https://expressjs.com/en/resources/middleware/body-parser.html)
+* [Express api reference](https://expressjs.com/en/4x/api.html)
 
 ## Globals
 * [__dirname](https://nodejs.org/dist/latest-v6.x/docs/api/globals.html#globals_dirname)
