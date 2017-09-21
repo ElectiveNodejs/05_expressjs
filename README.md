@@ -8,6 +8,7 @@ Today we will look on the concept of a node.js module, and especially the expres
   * [Getting Started](https://expressjs.com/en/starter/installing.html)
   * [Hello World](https://expressjs.com/en/starter/hello-world.html)
   * [Basic routing](https://expressjs.com/en/starter/basic-routing.html)
+  * [Routing](https://expressjs.com/en/guide/routing.html)
 
 ## Globals
 * [__dirname](https://nodejs.org/dist/latest-v6.x/docs/api/globals.html#globals_dirname)
